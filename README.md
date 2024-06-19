@@ -1,1 +1,1 @@
-# jordan
+# Gauss jordan
